@@ -75,5 +75,17 @@ Reviews & Ratings
 Pratham Siddhpura
 Department of Computer Science
 Gujarat University, Ahmedabad
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/03821c15-4c9f-4fbc-9abd-f0a0236388ec" />
+Home Page : 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8400f905-18c0-4aa2-800f-2fd7c4a4442f" />
 
+Login : 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24cd25a1-47f2-462b-a8c4-fc2ed1a518ee" />
+
+Register:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebeceedc-5ec3-4d45-93b9-295e0f0dca47" />
+
+Appointment Booking : 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7da78426-3f2a-4769-a8d7-30cf2a93763d" />
+
+Administrator:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/421a782a-9243-47f8-b5d9-5f543030b7ec" />
