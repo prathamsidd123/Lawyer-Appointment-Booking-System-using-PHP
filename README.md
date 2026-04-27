@@ -44,6 +44,14 @@ Appointments
 Payments
 Reviews
 
+🔐 User Roles
+| Role   | Access              |
+| ------ | ------------------- |
+| Admin  | Full System Control |
+| Lawyer | Case Management     |
+| User   | Appointment Booking |
+
+
 💻 Technologies Used
 | Technology | Usage                 |
 | ---------- | --------------------- |
