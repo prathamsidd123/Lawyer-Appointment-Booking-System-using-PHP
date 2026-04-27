@@ -37,6 +37,13 @@ Monitor Appointments
 View Payments
 System Control
 
+🧩 Database Modules MYSQL
+Users
+Lawyer Profiles
+Appointments
+Payments
+Reviews
+
 💻 Technologies Used
 | Technology | Usage                 |
 | ---------- | --------------------- |
