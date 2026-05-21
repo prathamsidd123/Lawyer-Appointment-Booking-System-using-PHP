@@ -1,12 +1,14 @@
 # Law-Appointment-Booking-System-Php
 ⚖️ Law Appointment Booking System
 
-A Web-based Law Appointment Booking System developed using PHP & MySQL that allows users to book appointments with lawyers online, manage cases, payments, and generate appointment reports.
+A Web-based Law Appointment Booking System developed using PHP & MySQL that allows users to book appointments with lawyers online, manage cases, payments, and generate appointment reports and Optimized for mobile screens
 
+and Optimized for mobile screens
 📌 Project Overview
 
 The Law Appointment Booking System simplifies communication between clients and lawyers by providing an online platform for:
 
+Responsive Mobile UI
 User Registration & Login
 Lawyer Profile Management
 Appointment Booking
